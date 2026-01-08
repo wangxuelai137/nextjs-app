@@ -1,11 +1,6 @@
 {
   "version": 2,
   "framework": "nextjs",
-  "functions": {
-    "app/**/*": {
-      "maxDuration": 60
-    }
-  },
   "builds": [
     {
       "src": "package.json",
